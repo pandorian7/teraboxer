@@ -8,5 +8,6 @@ setup(
     license='',
     author='Yasith Piyarathne',
     author_email='yasithpiyarathne@gmail.com',
-    description='python uploader for terabox.com'
+    description='python uploader for terabox.com',
+    requires=['requests']
 )
